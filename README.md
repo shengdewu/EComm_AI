@@ -1,9 +1,9 @@
 # EComm_AI
 
-#数据集描述
-#表格 1. 用户行为预测(test.tar.gz)
-字段	类型	描述
-user id	string	用户id
+#数据集描述\n
+#表格 1. 用户行为预测(test.tar.gz)\n
+字段	类型	描述\n
+user id	string	用户id\n
 item_ids	string	预测会点击的商品集合(逗号分隔) 例如: 1,2,3,4,5
 
 #表格 2. 用户历史行为(train.tar.gz)
